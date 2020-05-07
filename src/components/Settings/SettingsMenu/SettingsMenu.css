@@ -1,0 +1,26 @@
+.settingsHeader {
+    text-align: left;
+    padding: 3px 6px 4px 6px;
+    font-size: 22px;
+    border-bottom: 2px solid grey;
+}
+
+.settingsHeader .title {
+    padding-left: 3px;
+}
+
+.settingsHeader .backArrow:hover {
+    cursor: pointer;
+}
+
+.settingsMenu {
+    height: 93vh;
+    width: 15.7%;
+    position: fixed;
+    right:1%;
+    bottom:0;
+    border: 3px solid midnightblue;
+    border-radius: 5px;
+    background-color: white;
+}
+

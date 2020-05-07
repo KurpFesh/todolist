@@ -1,0 +1,14 @@
+.sidebarToggler {
+    grid-column: 1/2;
+}
+
+.sidebarToggler > div {
+    margin: 0 auto;
+    width: 60%;
+    padding: 8px;
+    color: midnightblue;
+    background-color: white;
+    border: 3px solid midnightblue;
+    border-radius: 5px;
+    cursor: pointer;
+}

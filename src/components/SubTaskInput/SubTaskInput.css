@@ -1,0 +1,20 @@
+.subtaskInput {
+    margin-top: 10px;
+}
+
+.subtaskInput input {
+    border-radius: 5px;
+    border-width: 3px;
+    padding: 5px;
+    margin: 5px auto 10px auto;
+    width: 50%;
+    border-color: darkslategrey;
+}
+
+.subtaskInput input:hover {
+    border-color: darkcyan;
+}
+
+.subtaskInput input:focus {
+    border-color: lightgray;
+}

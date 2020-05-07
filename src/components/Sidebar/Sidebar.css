@@ -1,0 +1,7 @@
+.sidebar {
+    position: relative;
+    margin-top: 10vh;
+    background-color: #eee;
+    grid-row: 2/3;
+    grid-column: 1/2;    
+}

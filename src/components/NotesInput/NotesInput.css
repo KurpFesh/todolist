@@ -1,0 +1,21 @@
+.notesInput input {
+    border-radius: 5px;
+    border-width: 3px;
+    padding: 3px;
+    margin: 5px auto 10px auto;
+    width: 70%;
+    border-color: darkslategrey;
+}
+
+.notesInput input:hover {
+    border-color: darkcyan;
+}
+
+.notesInput input:focus {
+    border-color: lightgray;
+}
+
+.hint {
+    font-size: 14px;
+    color: grey;
+}

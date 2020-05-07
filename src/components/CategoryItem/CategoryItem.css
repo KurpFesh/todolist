@@ -1,0 +1,37 @@
+.categoryItem h3 {
+    margin: 5px auto;
+    padding: 3px;
+    width: 80%;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.categoryItem.selectable h3 {
+    color: brown;
+    border: 3px solid brown;
+    background-color: white;
+}
+
+.categoryItem.changable {
+    width: 80%;
+    justify-self: center;
+}
+
+.categoryItem.changable h3 {
+    color: seagreen;
+    border: 3px solid seagreen;
+    background-color: white;
+}
+
+.categoryItem.selectable.selected h3 {
+    background-color: brown;
+    color: white;
+    opacity: 0.6;
+}
+
+.categoryItem.changable.selected h3 {
+    background-color: seagreen;
+    color: white;
+    opacity: 0.6;
+}
+

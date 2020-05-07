@@ -1,0 +1,14 @@
+.categoryAddInput input{
+    border-radius: 5px;
+    border-color: darksalmon;
+    border-width: 3px;
+    padding: 5px;
+}
+
+.categoryAddInput input:hover{
+    border-color: burlywood;
+}
+
+.categoryAddInput input:focus{
+    border-color: bisque;
+}

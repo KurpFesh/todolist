@@ -1,0 +1,15 @@
+.todoAddInput input {
+    border-radius: 5px;
+    border-color: cornflowerblue;
+    border-width: 3px;
+    padding: 3px;
+    width: 50%;
+}
+
+.todoAddInput input:hover {
+    border-color: darkturquoise;
+}
+
+.todoAddInput input:focus {
+    border-color: aqua;
+}

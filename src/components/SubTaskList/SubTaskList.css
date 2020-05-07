@@ -1,0 +1,7 @@
+.subtaskList {
+    margin-top: 20px;
+}
+
+.subtaskList .taskItem {
+    width: 60% !important;
+}

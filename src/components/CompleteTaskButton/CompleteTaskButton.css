@@ -1,0 +1,15 @@
+.completeTaskButton {
+    font-size: 18px;
+    color: darkgreen;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.completeTaskButton:hover {
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}

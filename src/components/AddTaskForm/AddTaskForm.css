@@ -1,0 +1,67 @@
+.taskForm {
+    height: 100%;
+}
+
+.taskForm h3 {
+    color: midnightblue;
+    font-size: 22px;
+    margin-top: 16px;
+}
+
+.taskForm .titleInput {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.taskForm .titleInput label {
+    width: 15%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.taskForm .titleInput input {
+    width: 80%;
+    padding: 5px;
+    border: 2px solid midnightblue;
+}
+
+.taskForm .categoryList {
+    margin-top: 16px;
+}
+
+.taskForm .categoryList select {
+    border: 2px solid midnightblue;
+    border-radius: 3px;
+    padding: 3px;
+    width: 30%;
+}
+
+.taskForm .actions {
+    position: absolute;
+    width: 100%;
+    bottom: 16px;
+}
+
+.taskForm .actions .submit {
+    width: 30%;
+    margin: 0 10px;
+    padding: 8px;
+    background-color: white;
+    color: green;
+    border: 3px solid green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.taskForm .actions .cancel {
+    width: 30%;
+    margin: 0 10px;
+    padding: 8px;
+    background-color: white;
+    color: darkred;
+    border: 3px solid darkred;
+    border-radius: 5px;
+    cursor: pointer;
+}

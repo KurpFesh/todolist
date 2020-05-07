@@ -1,0 +1,18 @@
+.settingsItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid grey;
+    padding: 2px 6px 2px 6px;
+    box-sizing: border-box
+}
+
+.settingsItem:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.settingsItem .arrow {
+    font-size: 20px;
+}

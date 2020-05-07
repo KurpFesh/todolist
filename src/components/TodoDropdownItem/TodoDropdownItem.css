@@ -1,0 +1,29 @@
+.todoDropdownItem .dropdownHeader {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    width: 40%;
+}
+
+.todoDropdownItem h3{
+    width: 100%;
+    margin: 10px auto;
+    padding: 8px;
+    background-color: midnightblue;
+    color: white;
+    font-size: 18px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.todoDropdownItem .tasksCounter{
+    width: 100%;
+    margin: 10px auto;
+    padding: 3px;
+    background-color: white;
+    color: midnightblue;
+    font-size: 18px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 5px solid midnightblue;
+}

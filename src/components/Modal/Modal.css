@@ -1,0 +1,12 @@
+.modal {
+    position: fixed;
+    top: 15%;
+    left: 35%;
+    height: 70%;
+    width: 30%;
+    background-color: #eee;
+    border: 3px solid midnightblue;
+    border-radius: 7px;
+    color: midnightblue;
+    z-index: 100;
+}

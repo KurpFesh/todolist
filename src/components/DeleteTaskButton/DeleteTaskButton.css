@@ -1,0 +1,15 @@
+.deleteTaskButton {
+    font-size: 18px;
+    color: darkred;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.deleteTaskButton:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
