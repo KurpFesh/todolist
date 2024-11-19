@@ -6,7 +6,7 @@
     "antd": "^3.16.1",
     "effector": "^0.18.7",
     "effector-react": "^0.18.9",
-    "firebase": "^5.9.3",
+    "firebase": "^10.9.0",
     "history": "^4.9.0",
     "react": "^16.8.6",
     "react-dnd": "^7.4.5",
